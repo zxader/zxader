@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=013adf&height=150&section=header&text=Welcome%20to%20TaeHun's%20Github!&fontSize=36" />
 
 <div style="text-align: center">
 
