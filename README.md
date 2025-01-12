@@ -11,7 +11,6 @@
 <table style="margin: 0 auto; text-align: center;">
   <tr>
     <td>
-
 ### Language
 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -22,7 +21,6 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
     </td>
     <td>
-
 ### Framework
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
@@ -34,13 +32,11 @@
   </tr>
   <tr>
     <td>
-
 ### Database
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
     </td>
     <td>
-
 ### Tools
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
