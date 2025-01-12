@@ -8,9 +8,10 @@
 
 ## Skills
 
-<table style="margin: 0 auto; text-align: center;">
+<table style="margin: 0 auto; border-spacing: 0; text-align: center;">
   <tr>
-    <td>
+    <td style="vertical-align: top; padding: 10px;">
+
 ### Language
 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -20,7 +21,8 @@
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
     </td>
-    <td>
+    <td style="vertical-align: top; padding: 10px;">
+
 ### Framework
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
@@ -31,12 +33,14 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="vertical-align: top; padding: 10px;">
+
 ### Database
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
     </td>
-    <td>
+    <td style="vertical-align: top; padding: 10px;">
+
 ### Tools
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
