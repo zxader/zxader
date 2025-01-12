@@ -3,8 +3,8 @@
 
 ## Education
 
-2024.01 ~ 2024.12  삼성 청년 SW 아카데미 11기 우수 수료 (상위 30%)   
-2017.03 ~ 2023.02  동아대학교 전기ㆍ전자ㆍ컴퓨터공학부 전기공학과 3.93/4.5
+2024.01 ~ 2024.12 &nbsp;삼성 청년 SW 아카데미 11기 우수 수료 (상위 30%)   
+2017.03 ~ 2023.02 &nbsp;동아대학교 전기ㆍ전자ㆍ컴퓨터공학부 전기공학과 3.93/4.5
 
 ## Skills
 
@@ -43,13 +43,13 @@
 
 ## Awards
 
-2024.11  SSAFY 2학기 자율 프로젝트 우수상   
-2024.10  SSAFY 2학기 특화 프로젝트 우수상
+2024.11 &nbsp;SSAFY 2학기 자율 프로젝트 우수상   
+2024.10 &nbsp;SSAFY 2학기 특화 프로젝트 우수상
 
 ## Certificates
 
-2024.09  정보처리기사   
-2023.03  TOEIC Speaking IM1
+2024.09 &nbsp;정보처리기사   
+2023.03 &nbsp;TOEIC Speaking IM1
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxader)](https://solved.ac/zxader)
 </div>
