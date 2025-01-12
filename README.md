@@ -3,8 +3,8 @@
 
 ## Education
 
-💻 **2024.01 ~ 2024.12** 삼성 청년 SW 아카데미 11기 우수 수료 (상위 30%)   
-🎓 **2017.03 ~ 2023.02** 동아대학교 전기전자컴퓨터공학부 전기공학과 3.93/4.5 학점 
+💻 2024.01 ~ 2024.12 **삼성 청년 SW 아카데미 11기** 우수 수료 (상위 30%)   
+🎓 2017.03 ~ 2023.02 **동아대학교 전기전자컴퓨터공학부 전기공학과** 3.93/4.5 학점 
 
 ## Skills
 
@@ -12,7 +12,7 @@
   <tr>
     <td>
 
-<span style="font-size: 18px; font-weight: bold;">**Language**</span>
+<span style="font-size: 25px; font-weight: bold;">**Language**</span>
 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -23,7 +23,7 @@
     </td>
     <td>
 
-<span style="font-size: 18px; font-weight: bold;">**Framework**</span>
+<span style="font-size: 25px; font-weight: bold;">**Framework**</span>
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Hibernate&logoColor=white" />
@@ -35,13 +35,13 @@
   <tr>
     <td>
 
-<span style="font-size: 18px; font-weight: bold;">**Database**</span>
+<span style="font-size: 25px; font-weight: bold;">**Database**</span>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
     </td>
     <td>
 
-<span style="font-size: 18px; font-weight: bold;">**Tools**</span>
+<span style="font-size: 25px; font-weight: bold;">**Tools**</span>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
@@ -58,13 +58,13 @@
 
 ## Awards
 
-🏆 **2024.11** SSAFY 2학기 자율 프로젝트 우수상  
-🏆 **2024.10** SSAFY 2학기 특화 프로젝트 우수상  
+🏆 2024.11 **SSAFY 2학기 자율 프로젝트 우수상**  
+🏆 2024.10 **SSAFY 2학기 특화 프로젝트 우수상**  
 
 ## Certificates
 
-📜 **2024.09** 정보처리기사  
-📜 **2023.03** TOEIC Speaking IM1  
+📜 2024.09 **정보처리기사**  
+📜 2023.03 **TOEIC Speaking IM1**  
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxader)](https://solved.ac/zxader)
 </div>
