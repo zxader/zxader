@@ -3,8 +3,8 @@
 
 ## Education
 
-2024.01 ~ 2024.12 &nbsp;&nbsp;&nbsp;&nbsp;삼성 청년 SW 아카데미 11기 우수 수료 (상위 30%)   
-2017.03 ~ 2023.02 &nbsp;&nbsp;&nbsp;&nbsp;동아대학교 전기ㆍ전자ㆍ컴퓨터공학부 전기공학과 3.93/4.5
+2024.01 ~ 2024.12 &nbsp;&nbsp;&nbsp;&nbsp;삼성 청년 SW 아카데미 11기 &nbsp;&nbsp;우수 수료 (상위 30%)   
+2017.03 ~ 2023.02 &nbsp;&nbsp;&nbsp;&nbsp;동아대학교 전기ㆍ전자ㆍ컴퓨터공학부 전기공학과 &nbsp;&nbsp;3.93/4.5
 
 ## Skills
 
