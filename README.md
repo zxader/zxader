@@ -41,12 +41,12 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
 
-## Awards
+## Award
 
 2024.11 &nbsp;&nbsp;&nbsp;&nbsp;SSAFY 2학기 자율 프로젝트 우수상   
 2024.10 &nbsp;&nbsp;&nbsp;&nbsp;SSAFY 2학기 특화 프로젝트 우수상
 
-## Certificates
+## Certificate
 
 2024.09 &nbsp;&nbsp;&nbsp;&nbsp;정보처리기사   
 2023.03 &nbsp;&nbsp;&nbsp;&nbsp;TOEIC Speaking IM1
